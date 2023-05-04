@@ -1,0 +1,15 @@
+artifact_uri: file:///home/letlhogile/Documents/educational_projects/202304_01_machine_learning_engineering_with_python/ch02_ml_dev_process/model_version_control/model_version_control/mlruns/0/a5322e0ed6da443d87178b54f05918cd/artifacts
+end_time: 1683199712724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5322e0ed6da443d87178b54f05918cd
+run_name: learned-worm-593
+run_uuid: a5322e0ed6da443d87178b54f05918cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683199712719
+status: 3
+tags: []
+user_id: letlhogile
