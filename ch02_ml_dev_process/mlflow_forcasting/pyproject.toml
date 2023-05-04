@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "mlflow-forcasting"
+version = "0.1.0"
+description = ""
+authors = ["letlhogile05 <letlhogile@gometroapp.com>"]
+readme = "README.md"
+packages = [{include = "mlflow_forcasting"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "*"
+fbprophet = "*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

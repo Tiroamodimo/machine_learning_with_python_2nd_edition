@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "model-version-control"
+version = "0.1.0"
+description = ""
+authors = ["letlhogile05 <letlhogile@gometroapp.com>"]
+readme = "README.md"
+packages = [{include = "model_version_control"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+mlflow = "*"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
