@@ -139,3 +139,13 @@ cython_debug/
 
 # IDE Stuff
 .idea
+
+# conda environment
+bin
+compiler_compat/
+conda-meta/
+include/
+share/
+ssl/
+conda-bld/
+x86_64-conda*
