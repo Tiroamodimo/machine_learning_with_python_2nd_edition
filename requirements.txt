@@ -104,3 +104,8 @@ LunarCalendar
 tabulate
 PyJWT
 fbprophet
+auto-sklearn
+autokeras
+Hyperopt
+Optuna
+alibi-detect
